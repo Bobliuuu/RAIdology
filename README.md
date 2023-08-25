@@ -1,6 +1,6 @@
 # radiology-assistant
 
-Our team has come together with an exciting vision - to develop an AI-driven radiology assistant. As we began our discussions, we explored several innovative ideas, including wildfire prevention, text-to-movie conversions, and AI ultrasound detection. After a few deliberations, we felt most inclined towards the AI ultrasound detection concept.
+Our team has come together with an exciting vision - to develop an AI-driven radiology assistant. As we began our discussions, we explored several innovative ideas, including wildfire prevention, text-to-movie conversions, and AI ultrasound detection. After a few deliberations, we felt most inclined toward the AI ultrasound detection concept.
 
 ## Objective:
 The project is intended to serve as an AI-powered radiology assistant that analyzes ultrasound images to provide insights. The primary goal is to "replace" the need for a doctor to interpret ultrasounds, offering a first-line analysis and guiding users to a doctor if there are any serious issues. However, the emphasis is on recognizing and providing insights about the ultrasound images, particularly focusing on the health of the baby and parent.
@@ -30,11 +30,11 @@ Possible recommendations (e.g., whether the host should consider a c-section).
 
 ## Roles and Tasks:
 
-Jerry: Focuses on model training, potentially using QLoRa. He will also port the model onto platforms like GCP, help with the fine-tuning of the LLM, and conduct research for the project pitch.
-Williams: Tasked with setting up the LLM using voiceflow, defining the workflow, and minting an NFT of the ultrasound. He might also work on developing a mobile app.
-Vivian: Will be responsible for creating Flask endpoints, connecting them to Next.js, and setting up a base page for image uploading and interaction with the GPT chatbot.
-Skylar: Entrusted with designing a visually appealing landing page and adding various frontend components to enhance the user experience.
-The team also discussed the feasibility of expanding the scope to include other radiology images like X-rays or body scans and deliberated on the specific insights the system should offer.
+**Jerry:** Focuses on model training, potentially using QLoRa. He will also port the model onto platforms like GCP, help with the fine-tuning of the LLM, and conduct research for the project pitch.
+**William:** Tasked with setting up the LLM using voiceflow, defining the workflow, and minting an NFT of the ultrasound. He might also work on developing a mobile app.
+**Vivian**: Will be responsible for creating Flask endpoints, connecting them to Next.js, and setting up a base page for image uploading and interaction with the GPT chatbot.
+**Skylar:** Entrusted with designing a visually appealing landing page and adding various frontend components to enhance the user experience.
+We also discussed the feasibility of expanding the scope to include other radiology images like X-rays or body scans and deliberated on the specific insights the system should offer.
 
 ## Next Steps
 
@@ -42,7 +42,7 @@ As we progress, we are considering making a mobile version, leveraging Voiceflow
 
 ## Challenges
 
-However, there have been certain points of confusion and challenges. For instance, Skylar pointed out that usually, ultrasounds are conducted in the doctor's office, where the doctor then reviews and informs the patient about any findings. We need to identify the precise gap our solution will fill in the current medical process. Also, fine-tuning the AI's capability to understand and interpret ultrasound images is something we're continuously working on.
+However, there have been certain points of confusion and challenges. For instance, Skylar pointed out that usually, ultrasounds are usually conducted in the doctor's office, where the doctor then reviews and informs the patient about any findings. We need to identify the precise gap our solution will fill in the current medical process. Also, fine-tuning the AI's capability to understand and interpret ultrasound images is something we're continuously working on.
 
 ## Conclusion
 
