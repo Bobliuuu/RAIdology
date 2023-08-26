@@ -33,7 +33,7 @@ const Hero = () => (
         description="The AI-driven solution that revolutionizes the way ultrasound images are interpreted and understood."
         button={
           <Link href="/">
-            <button className="text-white bg-blue-500 px-6 py-3 rounded-lg text-primary-500 hover:bg-blue-600 shadow-lg">GET STARTED</button>
+            <button className="text-white bg-primary-700 px-6 py-3 rounded-lg text-primary-500 hover:bg-primary-800 shadow-lg">GET STARTED</button>
           </Link>
         }
       />
