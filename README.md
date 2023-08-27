@@ -1,5 +1,13 @@
 # radiology-assistant
 
+## Inspiration
+
+80 million CT scans are performed every year in the US according to Harvard Medical School.
+
+With CT scan report writing and result appointments taking up to 1hr and 30 minutes, that's 120 million Physician Hours spent on analyzing scans.
+
+Given the average [Radiology Physician makes $217 ](https://www.salary.com/research/salary/benchmark/physician-radiology-hourly-wages) per hour, which means that's 26.04 Billion USD spent every year on CT scan result analysis.
+
 Our team has come together with an exciting vision - to develop an AI-driven radiology assistant. As we began our discussions, we explored several innovative ideas, including wildfire prevention, text-to-movie conversions, and AI ultrasound detection. After a few deliberations, we felt most inclined toward the AI ultrasound detection concept.
 
 ## Objective:
