@@ -43,11 +43,11 @@ export function Hero() {
       <HeroOneButton
         title={
           <>
-            {'Generate the most comprehensive ultrasound results\n'}
+            {'Generate the most comprehensive ultrasound and radiology results\n'}
             <span className="text-primary-700">in one click.</span>
           </>
         }
-        description="The AI-driven solution that revolutionizes the way ultrasound images are interpreted and understood."
+        description="The AI-driven solution that revolutionizes the way ultrasound and x-ray images are interpreted and understood."
         button={
           <Link href="/">
             <button onClick={login} className="text-white bg-primary-700 px-6 py-3 rounded-lg text-primary-500 hover:bg-primary-800 shadow-lg">GET STARTED</button>
