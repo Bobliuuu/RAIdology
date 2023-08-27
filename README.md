@@ -2,7 +2,7 @@
 
 ## Inspiration
 
-80 million CT scans are performed every year in the US according to Harvard Medical School.
+[80 million CT scans](https://www.health.harvard.edu/cancer/radiation-risk-from-medical-imaging) are performed every year in the US according to Harvard Medical School.
 
 With CT scan report writing and result appointments taking up to 1hr and 30 minutes, that's 120 million Physician Hours spent on analyzing scans.
 
