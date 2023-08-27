@@ -6,3 +6,5 @@ and docs.png to see an example. This uses a quantized checkpoint of MiniGPT-4 an
 There are three API endpoints: /root (for debugging prod), /seg (required: url), and /explain (required: url)
 
 There is a Procfile to deploy to Heroku (will scale costs fast) as well as a Docker file for containerization in any cloud environment, though Lambda Labs is required due to the high CUDA compute. 
+
+We also have a Postman API suite, to test out all of the APIs we deployed and used in our application: https://www.postman.com/mission-operator-17323510/workspace/raidology
