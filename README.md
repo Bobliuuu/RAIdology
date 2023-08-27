@@ -8,7 +8,7 @@ With CT scan report writing and result appointments taking up to 1hr and 30 minu
 
 Given the average [Radiology Physician makes $217 ](https://www.salary.com/research/salary/benchmark/physician-radiology-hourly-wages) per hour, which means that's 26.04 Billion USD spent every year on CT scan result analysis.
 
-Our team has come together with an exciting vision - to develop an AI-driven radiology assistant. As we began our discussions, we explored several innovative ideas, including wildfire prevention, text-to-movie conversions, and AI ultrasound detection. After a few deliberations, we felt most inclined toward the AI ultrasound detection concept.
+With healthcare getting more expensive and more backlogged with physicians increasingly experiencing burn out, our team has come together with an exciting vision - to develop an AI-driven radiology assistant. As we began our discussions, we explored several innovative ideas, including wildfire prevention, text-to-movie conversions, and AI ultrasound detection. After a few deliberations, we felt most inclined toward the AI ultrasound detection concept.
 
 ## Objective:
 The project is intended to serve as an AI-powered radiology assistant that analyzes ultrasound images to provide insights. The primary goal is to "replace" the need for a doctor to interpret ultrasounds, offering a first-line analysis and guiding users to a doctor if there are any serious issues. However, the emphasis is on recognizing and providing insights about the ultrasound images, particularly focusing on the health of the baby and parent.
