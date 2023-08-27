@@ -32,7 +32,7 @@ Possible recommendations (e.g., whether the host should consider a c-section).
 
 **Jerry:** Focuses on model training, potentially using QLoRa. He will also port the model onto platforms like GCP, help with the fine-tuning of the LLM, and conduct research for the project pitch.
 **William:** Tasked with setting up the LLM using voiceflow, defining the workflow, and minting an NFT of the ultrasound. He might also work on developing a mobile app.
-**Vivian**: Will be responsible for creating Flask endpoints, connecting them to Next.js, and setting up a base page for image uploading and interaction with the GPT chatbot.
+**Sujata**: Will be responsible for creating Flask endpoints, connecting them to Next.js, and setting up a base page for image uploading and interaction with the GPT chatbot.
 **Skylar:** Entrusted with designing a visually appealing landing page and adding various frontend components to enhance the user experience.
 We also discussed the feasibility of expanding the scope to include other radiology images like X-rays or body scans and deliberated on the specific insights the system should offer.
 
