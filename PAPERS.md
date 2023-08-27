@@ -27,3 +27,5 @@ https://arxiv.org/abs/2304.10592
 https://arxiv.org/abs/2305.14314
 
 https://arxiv.org/abs/2010.00747
+
+https://openai.com/research/clip
