@@ -1,5 +1,7 @@
 # RAIdology
 
+**Note**: Please see CATEGORIES.md for a more detailed description of each category prize we are going for. 
+
 ## Inspiration
 
 [80 million CT scans](https://www.health.harvard.edu/cancer/radiation-risk-from-medical-imaging) are performed every year in the US according to Harvard Medical School.
