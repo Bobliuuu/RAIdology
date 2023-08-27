@@ -38,7 +38,7 @@ We also discussed the feasibility of expanding the scope to include other radiol
 
 ## Next Steps
 
-As we progress, we are considering making a mobile version, leveraging Voiceflow's mobile optimization. Our overarching goal is to participate in and potentially win multiple categories in an ongoing competition: Best use of API, AI/ML, and Catalyst.
+As we progress, we are considering making a mobile version, leveraging Voiceflow's mobile optimization. Our overarching goal is to participate in and potentially win multiple categories in an ongoing competition: Best Use of API, ML/AI Hack, Web, and Catalyst.
 
 ## Challenges
 
