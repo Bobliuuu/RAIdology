@@ -1,4 +1,4 @@
-# radiology-assistant
+# RAIdology
 
 ## Inspiration
 
