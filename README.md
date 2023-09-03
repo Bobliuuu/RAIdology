@@ -14,9 +14,9 @@ NFTs are minted using the image of the ultrasound, and can be saved/transacted, 
 
 Also see: 
 
-LLaVa - Training info and scripts for hosted (LLaVa-MED) LLM
-PAPERS.md - Papers used in this project
-frontend - Frontend interface for this project (deployed on Voiceflow and Next.JS)
+LLaVa - Training info and scripts for hosted (LLaVa-MED) LLM <br />
+PAPERS.md - Papers used in this project <br />
+frontend - Frontend interface for this project (deployed on Voiceflow and Next.JS) <br />
 backend - Backend interface, deployed on Heroku, with Postman and ReDoc
 
 ## Inspiration
