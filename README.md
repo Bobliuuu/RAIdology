@@ -1,6 +1,23 @@
 # RAIdology
 
-**Note**: Please see CATEGORIES.md for a more detailed description of each category prize we are going for. 
+## Verbwire 
+
+We used the Verbwire API to allow users to mint NFTs on over 13 chains. 
+
+Examples of NFTs minted: 
+
+https://mumbai.polygonscan.com/tx/0x587dce04fd6f5f928ef9d1d3120da504bff38d67d6c50a985a225d3fc0ebab8c
+
+https://mumbai.polygonscan.com/tx/0x8021e9ebdb5b6abee577d1ac5468ca1e79376f8527278bfb8710d9bb931c2e57
+
+NFTs are minted using the image of the ultrasound, and can be saved/transacted, or sent across chains if required. 
+
+Also see: 
+
+LLaVa - Training info and scripts for hosted (LLaVa-MED) LLM
+PAPERS.md - Papers used in this project
+frontend - Frontend interface for this project (deployed on Voiceflow and Next.JS)
+backend - Backend interface, deployed on Heroku, with Postman and ReDoc
 
 ## Inspiration
 
@@ -13,9 +30,9 @@ Given the average [Radiology Physician makes $217 ](https://www.salary.com/resea
 With healthcare getting more expensive and more backlogged with physicians increasingly experiencing burn out, our team has come together with an exciting vision to streamline the process by developing an AI-driven radiology assistant. As we began our discussions, we explored several innovative ideas, including wildfire prevention, text-to-movie conversions, and AI ultrasound detection. After a few deliberations, we felt most inclined toward the AI ultrasound detection concept.
 
 ## Objective:
-The project is intended to serve as an AI-powered radiology assistant that analyzes ultrasound images to provide insights. The primary goal is to "replace" the need for a doctor to interpret ultrasounds, offering a first-line analysis and guiding users to a doctor if there are any serious issues. However, the emphasis is on recognizing and providing insights about the ultrasound images, particularly focusing on the health of the baby and parent.
+The project is intended to serve as an AI-powered radiology assistant that analyzes ultrasound images to provide insights. The primary goal is to "replace" the need for a doctor to interpret ultrasounds, offering a first-line analysis and guiding users to a doctor if there are any serious issues. However, the emphasis is on recognizing and providing insights about the ultrasound images, particularly focusing on the health of the baby and parent. We want to promote social equity and inclusion by providing accessible care for any users that want a deep understanding of their ultrasound or radiology images broken down. 
 
-### Here's the general flow of our proposed solution:
+### General Flow
 
 Users are introduced via a landing page and directed to a Voiceflow interface.
 Users then upload ultrasound images.
@@ -23,6 +40,7 @@ An AI model, which we are actively developing, will then analyze these ultrasoun
 Insights drawn from the images will be processed and presented through a chatbot. This is where the Language Model (LLM) comes into play, converting the AI's findings into comprehensive insights.
 The objective is to provide a simplified overview of the ultrasound's findings, focusing primarily on the health of the carrier, potentially eliminating the immediate need for a doctor unless a serious issue is detected.
 We've also discussed possible expansions like gestational time estimation, baby size predictions, and recommendations (like whether a C-section might be advisable).
+We allow users to mint an NFT on over 13 chains using the Verbwire API, building an API to mint an NFT for ease of access, and being able to choose a chain, and send this NFT cross chain, which represents sending to various hospitals or clinics. 
 
 ## Features:
 
@@ -38,21 +56,18 @@ Baby health insights.
 Information about the carrier's health.
 Possible recommendations (e.g., whether the host should consider a c-section).
 
-## Roles and Tasks:
+## Tech Stack
 
-**Jerry:** Focuses on model training, potentially using QLoRa. He will also port the model onto platforms like GCP, help with the fine-tuning of the LLM, and conduct research for the project pitch.
-**William:** Tasked with setting up the LLM using voiceflow, defining the workflow, and minting an NFT of the ultrasound. He might also work on developing a mobile app.
-**Sujata**: Will be responsible for creating Flask endpoints, connecting them to Next.js, and setting up a base page for image uploading and interaction with the GPT chatbot.
-**Skylar:** Entrusted with designing a visually appealing landing page and adding various frontend components to enhance the user experience.
-We also discussed the feasibility of expanding the scope to include other radiology images like X-rays or body scans and deliberated on the specific insights the system should offer.
+For the tech stack of our project, we decided to use T3 stack for the frontend, and FastAPI for the backend. On the ML side, we used Jupyter for inference, and a Lambda Labs A100 reserved cuda (GPU) instance for training. We fine tuned an ensemble of LLaVa and MiniGPT using QLoRa quantized  embeddings. We also researched CLIP, intending to use it to get LLM insights. For our production model, we used a checkpointed version of MiniGPT fine tuned on ROCO-instruct to generate medical insights (tandem to LLaVa-Med) and a Segment Anything semantic model to detect abscesses and abnormalities. We trained this model on a A100 NVIDIA GPU, provided by Lambda Labs, but we would prefer to have the perfect specs of 4x A100, 512 SSD, which would be the best specs to run a self fine tuned large language model. On the backend side, we had to set up a local NVIDIA cuda deployment, and run a FastAPI endpoint (with ReDoc support) that could connect to our Voiceflow interface (another part of our frontend). This way, we could pass image urls that could be unpacked and our inference could be done locally, then passed back using the ByteScale API. 
+For NFT minting, we used the Verbwire API (quick mint an NFT from metadata URL), to first choose a chain and address, and mint an NFT on that chain. 
 
 ## Next Steps
 
-As we progress, we are considering making a mobile version, leveraging Voiceflow's mobile optimization. Our overarching goal is to participate in and potentially win multiple categories in an ongoing competition: Best Use of API, ML/AI Hack, Web, and Catalyst.
+As we progress, we are considering making a mobile version, leveraging Voiceflow's mobile optimization. We hope to reach out to clinics and hospitals, improve general features and model accuracy, as well as providing an easier interface for users to be onboarded. We also hope to have real time analysis from doctors, which can be done with funding, as we partner with these institutions. Finally, we want to leverage better infrastructure in order to train these models, specifically LLAVA-MED. 
 
 ## Challenges
 
-However, there have been certain points of confusion and challenges. For instance, Skylar pointed out that usually, ultrasounds are usually conducted in the doctor's office, where the doctor then reviews and informs the patient about any findings. We need to identify the precise gap our solution will fill in the current medical process. Also, fine-tuning the AI's capability to understand and interpret ultrasound images is something we're continuously working on.
+However, there have been certain points of confusion and challenges. For instance, ultrasounds are usually conducted in the doctor's office, where the doctor then reviews and informs the patient about any findings. We need to identify the precise gap our solution will fill in the current medical process. Also, fine-tuning the AI's capability to understand and interpret ultrasound images is something we're continuously working on.
 
 ## Conclusion
 
