@@ -1,10 +1,10 @@
 {
   "_version": "1.2",
   "project": {
-    "_id": "64ea96a32998320007252666",
-    "name": "IgnitionHacks",
-    "teamID": "29kMYbaNko",
-    "devVersion": "64ea96a32998320007252667",
+    "_id": "64f3844301d4550007447cf0",
+    "name": "Equitable Elevation 1",
+    "teamID": "vrk1e6Q4k3",
+    "devVersion": "64f3844301d4550007447cf1",
     "platform": "webchat",
     "type": "chat",
     "platformData": {
@@ -19,162 +19,7 @@
       "aiPlayground": true
     },
     "knowledgeBase": {
-      "documents": {
-        "64ea96b52998320007252673": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "oarinfo.ca/patient-info/what-radiology",
-            "url": "https://oarinfo.ca/patient-info/what-radiology"
-          },
-          "updatedAt": "2023-08-27T00:20:05.516Z",
-          "creatorID": 130974,
-          "documentID": "64ea96b52998320007252673",
-          "version": 0.2
-        },
-        "64ea96b52998320007252674": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "ncbi.nlm.nih.gov/pmc/articles/PMC4656238/",
-            "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656238/"
-          },
-          "updatedAt": "2023-08-27T00:20:05.923Z",
-          "creatorID": 130974,
-          "documentID": "64ea96b52998320007252674",
-          "version": 0.2
-        },
-        "64ea96b52998320007252675": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "github.com/Bobliuuu/radiology-assistant",
-            "url": "https://github.com/Bobliuuu/radiology-assistant"
-          },
-          "updatedAt": "2023-08-27T00:20:05.940Z",
-          "creatorID": 130974,
-          "documentID": "64ea96b52998320007252675",
-          "version": 0.2
-        },
-        "64ea96b52998320007252676": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "car.ca/",
-            "url": "https://car.ca/"
-          },
-          "updatedAt": "2023-08-27T00:20:05.955Z",
-          "creatorID": 130974,
-          "documentID": "64ea96b52998320007252676",
-          "version": 0.2
-        },
-        "64ea9837299832000725267f": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "radiologyinfo.org/en/faq",
-            "url": "https://www.radiologyinfo.org/en/faq"
-          },
-          "updatedAt": "2023-08-27T00:26:31.201Z",
-          "creatorID": 130974,
-          "documentID": "64ea9837299832000725267f",
-          "version": 0.2
-        },
-        "64ea98452998320007252680": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "radiologyinfo.org/en/info/article-discussing-report-results",
-            "url": "https://www.radiologyinfo.org/en/info/article-discussing-report-results"
-          },
-          "updatedAt": "2023-08-27T00:26:45.914Z",
-          "creatorID": 130974,
-          "documentID": "64ea98452998320007252680",
-          "version": 0.2
-        },
-        "64ea98592998320007252681": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "sfmc.net/service/other-services/imaging/radiology-faq/",
-            "url": "https://www.sfmc.net/service/other-services/imaging/radiology-faq/"
-          },
-          "updatedAt": "2023-08-27T00:27:05.258Z",
-          "creatorID": 130974,
-          "documentID": "64ea98592998320007252681",
-          "version": 0.2
-        },
-        "64ea98892998320007252682": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "uofmhealth.org/radiology-and-imaging/patient-resources/faq",
-            "url": "https://www.uofmhealth.org/radiology-and-imaging/patient-resources/faq"
-          },
-          "updatedAt": "2023-08-27T00:27:53.992Z",
-          "creatorID": 130974,
-          "documentID": "64ea98892998320007252682",
-          "version": 0.2
-        },
-        "64ea988a2998320007252683": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "rad-imaging.com/for-patients/frequently-asked-questions/",
-            "url": "https://rad-imaging.com/for-patients/frequently-asked-questions/"
-          },
-          "updatedAt": "2023-08-27T00:27:54.460Z",
-          "creatorID": 130974,
-          "documentID": "64ea988a2998320007252683",
-          "version": 0.2
-        },
-        "64ea988a2998320007252684": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "mountsinai.org/care/radiology/visit/faqs",
-            "url": "https://www.mountsinai.org/care/radiology/visit/faqs"
-          },
-          "updatedAt": "2023-08-27T00:27:54.473Z",
-          "creatorID": 130974,
-          "documentID": "64ea988a2998320007252684",
-          "version": 0.2
-        },
-        "64eaf02e299832000725291a": {
-          "status": {
-            "type": "SUCCESS"
-          },
-          "data": {
-            "type": "url",
-            "name": "radiopaedia.org/articles/reticular-and-linear-pulmonary-opacification",
-            "url": "https://radiopaedia.org/articles/reticular-and-linear-pulmonary-opacification"
-          },
-          "updatedAt": "2023-08-27T06:41:50.396Z",
-          "creatorID": 130974,
-          "documentID": "64eaf02e299832000725291a",
-          "version": 0.2
-        }
-      },
+      "documents": {},
       "settings": {
         "chunkStrategy": {
           "type": "recursive_text_splitter",
@@ -196,15 +41,15 @@
       }
     },
     "_version": 1.2,
-    "updatedAt": "2023-08-27T06:50:39.818Z",
-    "creatorID": 130974,
-    "updatedBy": 130974,
+    "updatedAt": "2023-09-03T02:57:29.578Z",
+    "creatorID": 137831,
+    "updatedBy": 137831,
     "privacy": "private",
-    "liveVersion": "64ea99342998320007252685",
-    "createdAt": "2023-08-27T00:19:47.000Z"
+    "liveVersion": "64f3f5526babf2000798b8d3",
+    "createdAt": "2023-09-02T18:51:47.000Z"
   },
   "version": {
-    "_id": "64ea96a32998320007252667",
+    "_id": "64f3844301d4550007447cf1",
     "variables": [
       "sessions",
       "user_id",
@@ -258,30 +103,30 @@
       },
       "platform": "webchat"
     },
-    "_version": 4.05,
+    "_version": 4.06,
     "name": "Initial Version",
-    "projectID": "64ea96a32998320007252666",
+    "projectID": "64f3844301d4550007447cf0",
     "manualSave": false,
     "autoSaveFromRestore": false,
     "topics": [
       {
-        "sourceID": "64ea96a32998320007252668",
+        "sourceID": "64f3844301d4550007447cf2",
         "type": "DIAGRAM"
       }
     ],
     "components": [],
-    "rootDiagramID": "64ea96a32998320007252668",
+    "rootDiagramID": "64f3844301d4550007447cf2",
     "domains": [
       {
         "id": "cla06iyr900b206pkh8d4ap8n",
         "name": "Home",
         "live": true,
         "topicIDs": [
-          "64ea96a32998320007252668"
+          "64f3844301d4550007447cf2"
         ],
-        "rootDiagramID": "64ea96a32998320007252668",
-        "updatedAt": "2023-08-27T06:50:39.819Z",
-        "updatedBy": 130974
+        "rootDiagramID": "64f3844301d4550007447cf2",
+        "updatedAt": "2023-09-03T02:52:44.428Z",
+        "updatedBy": 137831
       }
     ],
     "canvasTemplates": [
@@ -318,11 +163,11 @@
         ]
       }
     ],
-    "creatorID": 130974,
+    "creatorID": 137831,
     "prototype": {
       "type": "chat",
       "data": {
-        "name": "IgnitionHacks",
+        "name": "Equitable Elevation 1",
         "locales": [
           "en-US"
         ]
@@ -334,7 +179,7 @@
       "context": {
         "stack": [
           {
-            "programID": "64ea96a32998320007252668",
+            "programID": "64f3844301d4550007447cf2",
             "storage": {},
             "variables": {}
           }
@@ -353,21 +198,23 @@
         "permissions": [],
         "usedEventsSet": []
       },
-      "settings": {},
+      "settings": {
+        "buttonsOnly": false
+      },
       "platform": "webchat"
     },
-    "templateDiagramID": "64ea96a32998320007252669"
+    "templateDiagramID": "64f3844301d4550007447cf3"
   },
   "diagrams": {
-    "64ea96a32998320007252668": {
-      "_id": "64ea96a32998320007252668",
+    "64f3844301d4550007447cf2": {
+      "_id": "64f3844301d4550007447cf2",
       "offsetX": 660.3784532606145,
       "offsetY": 781.3489202677721,
       "zoom": 100,
       "variables": [],
       "name": "ROOT",
-      "versionID": "64ea96a32998320007252667",
-      "creatorID": 130974,
+      "versionID": "64f3844301d4550007447cf1",
+      "creatorID": 137831,
       "modified": 1693004510,
       "intentStepIDs": [],
       "type": "TOPIC",
@@ -401,19 +248,19 @@
                     "points": [
                       {
                         "point": [
-                          -502.48,
+                          -502.47,
                           -693.75
                         ]
                       },
                       {
                         "point": [
-                          -463.19,
+                          -463.18,
                           -693.75
                         ]
                       },
                       {
                         "point": [
-                          -463.19,
+                          -463.18,
                           -782.04
                         ]
                       },
@@ -533,7 +380,35 @@
                   "type": "next",
                   "target": "64e933ceaca9d731930176a6",
                   "id": "646187c35b0afc227e84c8ed",
-                  "data": {}
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          716.62,
+                          -555.65
+                        ]
+                      },
+                      {
+                        "point": [
+                          752.26,
+                          -555.65
+                        ]
+                      },
+                      {
+                        "point": [
+                          752.26,
+                          -761.5
+                        ]
+                      },
+                      {
+                        "point": [
+                          787.9,
+                          -761.5
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
                 },
                 "else": {
                   "type": "else",
@@ -610,7 +485,7 @@
                   {
                     "children": [
                       {
-                        "text": "Hi there, I am your personal Radiology AI assistant!"
+                        "text": "Welcome to RAIdology! I am your radiology assistant! Feel free to ask me anything or submit images about radiology!"
                       }
                     ]
                   }
@@ -983,8 +858,8 @@
           },
           "nodeID": "64c2bced0639171d35c4e9f7",
           "coords": [
-            3260.832876046545,
-            -1055.5831626644535
+            3257.589632803301,
+            -1105.853432934724
           ]
         },
         "64e9337aaca9d7319301769e": {
@@ -1026,7 +901,7 @@
                   {
                     "children": [
                       {
-                        "text": "Analysis: The ultrasound image shows a lesion in the pancreas, which is indicated by the irregular contour (M). This lesion is likely a cyst, which is a fluid-filled sac that can form in various organs, including the pancreas. The presence of calcifications (RK) in the lesion suggests that it may be a pancreatic cyst, which is a type of cyst that forms in the pancreas. These cysts can be benign or malignant, and they can cause symptoms such as abdominal pain, nausea, and vomiting. The ultrasound image also shows other small abscesses in the pancreas, which are likely related to the cyst. These abscesses are small collections of pus that can form in response to infection or inflammation. Overall, the ultrasound image suggests that the patient has a pancreatic cyst that may be benign or malignant, and it is important for the patient to follow up with a healthcare provider for further evaluation and treatment.\n"
+                        "text": "Analysis: The image shows a chest x - ray, which is a type of medical imaging that uses x - rays to produce images of the body's internal structures. The image shows the presence of a nodule in the right lung, which is a small mass of tissue that can be seen on the x - ray. The size of the nodule is approximately 2 cm in diameter. The nodule has a reticular fibrotic pattern, which means that it is made up of thick, fibrous tissue. The nodule appears to be well - defined and does not have any signs of abnormal growth or spread. Overall, the nodule appears to be benign and not cancerous."
                       }
                     ]
                   }
@@ -1039,35 +914,33 @@
               "builtIn": {
                 "next": {
                   "type": "next",
-                  "target": "64ea96cebfe1072d6c7f1f27",
+                  "target": "64f3f43886459f08abc85eeb",
                   "id": "64e9337aaca9d7319301769f",
                   "data": {
                     "points": [
                       {
                         "point": [
-                          3094.83,
-                          -742.83
-                        ],
-                        "reversed": true
-                      },
-                      {
-                        "point": [
-                          1500.97,
-                          -742.83
+                          3423.99,
+                          -793.5
                         ]
                       },
                       {
                         "point": [
-                          1500.97,
-                          -646.54
+                          3524.95,
+                          -793.5
                         ]
                       },
                       {
                         "point": [
-                          -92.9,
-                          -646.54
+                          3524.95,
+                          -898.91
+                        ]
+                      },
+                      {
+                        "point": [
+                          3625.92,
+                          -898.91
                         ],
-                        "reversed": true,
                         "allowedToTop": false
                       }
                     ]
@@ -1113,27 +986,27 @@
                     "points": [
                       {
                         "point": [
-                          2229.91,
-                          -1429.21
+                          2229.51,
+                          -1429.61
                         ],
                         "reversed": true
                       },
                       {
                         "point": [
-                          2119.39,
-                          -1429.21
+                          2118.98,
+                          -1429.61
                         ]
                       },
                       {
                         "point": [
-                          2119.39,
-                          -1074.32
+                          2118.98,
+                          -1074.72
                         ]
                       },
                       {
                         "point": [
-                          2143.39,
-                          -1074.32
+                          2142.98,
+                          -1074.72
                         ],
                         "allowedToTop": false
                       }
@@ -1179,26 +1052,26 @@
                     "points": [
                       {
                         "point": [
-                          1118.9,
-                          -639.5
+                          1119.3,
+                          -639.9
                         ]
                       },
                       {
                         "point": [
                           1169.51,
-                          -639.5
+                          -639.9
                         ]
                       },
                       {
                         "point": [
                           1169.51,
-                          -761.76
+                          -762.16
                         ]
                       },
                       {
                         "point": [
-                          1220.13,
-                          -761.76
+                          1219.73,
+                          -762.16
                         ],
                         "allowedToTop": false
                       }
@@ -1294,7 +1167,35 @@
                   "type": "",
                   "target": "646187c35b0afc227e84c8dc",
                   "id": "64ea96cebfe1072d6c7f1f28",
-                  "data": {}
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          -92.5,
+                          -601.69
+                        ]
+                      },
+                      {
+                        "point": [
+                          146.36,
+                          -601.69
+                        ]
+                      },
+                      {
+                        "point": [
+                          146.36,
+                          -702.25
+                        ]
+                      },
+                      {
+                        "point": [
+                          385.22,
+                          -702.25
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
                 },
                 {
                   "id": "64ea96d5bfe1072d6c7f1f2c",
@@ -1304,26 +1205,26 @@
                     "points": [
                       {
                         "point": [
-                          -92.9,
-                          -591.79
+                          -92.5,
+                          -547.19
                         ]
                       },
                       {
                         "point": [
                           142.51,
-                          -591.79
+                          -547.19
                         ]
                       },
                       {
                         "point": [
                           142.51,
-                          -395.52
+                          -395.92
                         ]
                       },
                       {
                         "point": [
-                          377.93,
-                          -395.52
+                          377.53,
+                          -395.92
                         ],
                         "allowedToTop": false
                       }
@@ -1410,26 +1311,26 @@
                     "points": [
                       {
                         "point": [
-                          709.93,
-                          -301.02
+                          710.33,
+                          -301.43
                         ]
                       },
                       {
                         "point": [
                           742.31,
-                          -301.02
+                          -301.43
                         ]
                       },
                       {
                         "point": [
                           742.31,
-                          -399.9
+                          -400.3
                         ]
                       },
                       {
                         "point": [
-                          774.68,
-                          -399.9
+                          774.28,
+                          -400.3
                         ],
                         "allowedToTop": false
                       }
@@ -1464,7 +1365,37 @@
                   "type": "next",
                   "target": "64ea96cebfe1072d6c7f1f27",
                   "id": "64ea970cbfe1072d6c7f1f42",
-                  "data": {}
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          774.28,
+                          -400.05
+                        ],
+                        "reversed": true
+                      },
+                      {
+                        "point": [
+                          340.89,
+                          -400.05
+                        ]
+                      },
+                      {
+                        "point": [
+                          340.89,
+                          -601.94
+                        ]
+                      },
+                      {
+                        "point": [
+                          -92.5,
+                          -601.94
+                        ],
+                        "reversed": true,
+                        "allowedToTop": false
+                      }
+                    ]
+                  }
                 }
               },
               "dynamic": []
@@ -1521,38 +1452,38 @@
                     "points": [
                       {
                         "point": [
-                          1546.36,
-                          -761.51
+                          1552.53,
+                          -761.91
                         ]
                       },
                       {
                         "point": [
-                          1570.36,
-                          -761.51
+                          1576.53,
+                          -761.91
                         ]
                       },
                       {
                         "point": [
-                          1570.36,
-                          -909.93
+                          1576.53,
+                          -910.33
                         ]
                       },
                       {
                         "point": [
-                          1408.47,
-                          -909.93
+                          1408.07,
+                          -910.33
                         ]
                       },
                       {
                         "point": [
-                          1408.47,
-                          -1058.35
+                          1408.07,
+                          -1058.75
                         ]
                       },
                       {
                         "point": [
-                          1432.47,
-                          -1058.35
+                          1432.07,
+                          -1058.75
                         ],
                         "allowedToTop": false
                       }
@@ -1590,7 +1521,7 @@
                   {
                     "children": [
                       {
-                        "text": "Processing image"
+                        "text": "Using semantic segmentation to detect abnormalities and generate insights"
                       }
                     ]
                   }
@@ -1609,38 +1540,38 @@
                     "points": [
                       {
                         "point": [
-                          1764.47,
-                          -1058.1
+                          1764.87,
+                          -1036
                         ]
                       },
                       {
                         "point": [
-                          1788.47,
-                          -1058.1
+                          1788.87,
+                          -1036
                         ]
                       },
                       {
                         "point": [
-                          1788.47,
-                          -1344.97
+                          1788.87,
+                          -1334.12
                         ]
                       },
                       {
                         "point": [
-                          1715.15,
-                          -1344.97
+                          1714.75,
+                          -1334.12
                         ]
                       },
                       {
                         "point": [
-                          1715.15,
-                          -1631.85
+                          1714.75,
+                          -1632.25
                         ]
                       },
                       {
                         "point": [
-                          1739.15,
-                          -1631.85
+                          1738.75,
+                          -1632.25
                         ],
                         "allowedToTop": false
                       }
@@ -1697,28 +1628,15 @@
                     "points": [
                       {
                         "point": [
-                          2878.36,
-                          -1075.8
+                          2878.76,
+                          -1076.2
                         ]
                       },
                       {
                         "point": [
-                          2987.1,
-                          -1075.8
+                          3092.59,
+                          -1078.85
                         ]
-                      },
-                      {
-                        "point": [
-                          2987.1,
-                          -1028.58
-                        ]
-                      },
-                      {
-                        "point": [
-                          3095.83,
-                          -1028.58
-                        ],
-                        "allowedToTop": true
                       }
                     ]
                   }
@@ -1769,7 +1687,35 @@
                   "type": "next",
                   "target": "64eaee8b09fdea3f4f386a6f",
                   "id": "64eaee9909fdea3f4f386a77",
-                  "data": {}
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          2475.78,
+                          -1074.47
+                        ]
+                      },
+                      {
+                        "point": [
+                          2511.57,
+                          -1074.47
+                        ]
+                      },
+                      {
+                        "point": [
+                          2511.57,
+                          -1128.55
+                        ]
+                      },
+                      {
+                        "point": [
+                          2547.36,
+                          -1128.55
+                        ],
+                        "allowedToTop": true
+                      }
+                    ]
+                  }
                 }
               },
               "dynamic": []
@@ -1795,7 +1741,7 @@
           "type": "visual",
           "data": {
             "name": "Visuals",
-            "image": "https://cdn.discordapp.com/attachments/1140854641547030639/1145249568657772595/Z.png",
+            "image": "https://cdn.discordapp.com/attachments/1140854641547030639/1145245218787053648/Z.png",
             "visualType": "image",
             "canvasVisibility": "full",
             "portsV2": {
@@ -1809,19 +1755,19 @@
                     "points": [
                       {
                         "point": [
-                          2071.15,
-                          -1388.51
+                          2071.55,
+                          -1388.14
                         ]
                       },
                       {
                         "point": [
-                          2151.03,
-                          -1388.51
+                          2151.23,
+                          -1388.14
                         ]
                       },
                       {
                         "point": [
-                          2151.03,
+                          2151.23,
                           -1481.96
                         ]
                       },
@@ -1840,8 +1786,8 @@
             },
             "frameType": "AUTO",
             "dimensions": {
-              "width": 600,
-              "height": 447
+              "width": 740,
+              "height": 709
             }
           },
           "nodeID": "64eaeeda09fdea3f4f386a81"
@@ -1859,11 +1805,339 @@
             1905.1488299970147,
             -1711.3515732087485
           ]
+        },
+        "64f3f43886459f08abc85eeb": {
+          "type": "text",
+          "data": {
+            "name": "Text",
+            "texts": [
+              {
+                "id": "ggwy3lud",
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "Would you like to mint an NFT? "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "canvasVisibility": "preview",
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "64f3f43886459f08abc85eec"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "64f3f43886459f08abc85eeb"
+        },
+        "64f3f43886459f08abc85eed": {
+          "type": "block",
+          "data": {
+            "name": "New Block 14",
+            "steps": [
+              "64f3f43886459f08abc85eeb",
+              "64f3f45b86459f08abc85ef4"
+            ]
+          },
+          "nodeID": "64f3f43886459f08abc85eed",
+          "coords": [
+            3792.3193625330323,
+            -978.011449243326
+          ]
+        },
+        "64f3f45b86459f08abc85ef4": {
+          "type": "captureV2",
+          "data": {
+            "name": "Capture",
+            "intentScope": "GLOBAL",
+            "capture": {
+              "type": "query",
+              "variable": "last_utterance"
+            },
+            "noReply": null,
+            "noMatch": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "64f3f45f86459f08abc85efa",
+                  "id": "64f3f45b86459f08abc85ef5",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          3958.72,
+                          -826.91
+                        ]
+                      },
+                      {
+                        "point": [
+                          4025.63,
+                          -826.91
+                        ]
+                      },
+                      {
+                        "point": [
+                          4025.63,
+                          -921.61
+                        ]
+                      },
+                      {
+                        "point": [
+                          4092.54,
+                          -921.61
+                        ],
+                        "allowedToTop": false
+                      }
+                    ]
+                  }
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "64f3f45b86459f08abc85ef6"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "64f3f45b86459f08abc85ef4"
+        },
+        "64f3f45f86459f08abc85efa": {
+          "type": "text",
+          "data": {
+            "name": "Text",
+            "texts": [
+              {
+                "id": "ye1023l9i",
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "Give chain and address, seperated by a space. You can mint on goerli, bsc-testnet, fuji, mumbai, ethereum, avalanche, polygon, arbitrum, optimism, and fantom. "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "canvasVisibility": "preview",
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "64f3f45f86459f08abc85efb"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "64f3f45f86459f08abc85efa"
+        },
+        "64f3f45f86459f08abc85efc": {
+          "type": "block",
+          "data": {
+            "name": "New Block 15",
+            "steps": [
+              "64f3f45f86459f08abc85efa",
+              "64f3f4ce86459f08abc85f03"
+            ]
+          },
+          "nodeID": "64f3f45f86459f08abc85efc",
+          "coords": [
+            4258.940984154654,
+            -1000.7141519460288
+          ]
+        },
+        "64f3f4ce86459f08abc85f03": {
+          "type": "captureV2",
+          "data": {
+            "name": "Capture",
+            "intentScope": "GLOBAL",
+            "capture": {
+              "type": "query",
+              "variable": "last_utterance"
+            },
+            "noReply": null,
+            "noMatch": null,
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "64f3f4d686459f08abc85f09",
+                  "id": "64f3f4ce86459f08abc85f04",
+                  "data": {
+                    "points": [
+                      {
+                        "point": [
+                          4425.34,
+                          -759.61
+                        ]
+                      },
+                      {
+                        "point": [
+                          4484.94,
+                          -759.61
+                        ]
+                      },
+                      {
+                        "point": [
+                          4484.94,
+                          -826.01
+                        ]
+                      },
+                      {
+                        "point": [
+                          4544.54,
+                          -826.01
+                        ],
+                        "allowedToTop": false
+                      }
+                    ]
+                  }
+                },
+                "else": {
+                  "type": "else",
+                  "target": null,
+                  "id": "64f3f4ce86459f08abc85f05"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "64f3f4ce86459f08abc85f03"
+        },
+        "64f3f4d686459f08abc85f09": {
+          "type": "text",
+          "data": {
+            "name": "Text",
+            "texts": [
+              {
+                "id": "a814e3ljb",
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "Minting NFT on Mumbai... "
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "canvasVisibility": "preview",
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": "64f3f52286459f08abc85f26",
+                  "id": "64f3f4d686459f08abc85f0a",
+                  "data": {}
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "64f3f4d686459f08abc85f09"
+        },
+        "64f3f4d686459f08abc85f0b": {
+          "type": "block",
+          "data": {
+            "name": "New Block 16",
+            "steps": [
+              "64f3f4d686459f08abc85f09"
+            ]
+          },
+          "nodeID": "64f3f4d686459f08abc85f0b",
+          "coords": [
+            4710.940858583199,
+            -905.1141027502126
+          ]
+        },
+        "64f3f52286459f08abc85f26": {
+          "type": "text",
+          "data": {
+            "name": "Text",
+            "texts": [
+              {
+                "id": "hz1bw3l8n",
+                "content": [
+                  {
+                    "children": [
+                      {
+                        "text": "NFT Minted! Check your txhash here: "
+                      },
+                      {
+                        "type": "link",
+                        "url": "https://mumbai.polygonscan.com/tx/0x587dce04fd6f5f928ef9d1d3120da504bff38d67d6c50a985a225d3fc0ebab8c",
+                        "children": [
+                          {
+                            "text": "https://mumbai.polygonscan.com/tx/0x587dce04fd6f5f928ef9d1d3120da504bff38d67d6c50a985a225d3fc0ebab8c",
+                            "color": {
+                              "r": 93,
+                              "g": 157,
+                              "b": 245,
+                              "a": 1
+                            },
+                            "underline": true
+                          }
+                        ]
+                      },
+                      {
+                        "text": ""
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "canvasVisibility": "preview",
+            "portsV2": {
+              "byKey": {},
+              "builtIn": {
+                "next": {
+                  "type": "next",
+                  "target": null,
+                  "id": "64f3f52286459f08abc85f27"
+                }
+              },
+              "dynamic": []
+            }
+          },
+          "nodeID": "64f3f52286459f08abc85f26"
+        },
+        "64f3f52286459f08abc85f28": {
+          "type": "block",
+          "data": {
+            "name": "New Block 17",
+            "steps": [
+              "64f3f52286459f08abc85f26"
+            ]
+          },
+          "nodeID": "64f3f52286459f08abc85f28",
+          "coords": [
+            5119.690858583199,
+            -956.3641027502126
+          ]
         }
       }
     },
-    "64ea96a32998320007252669": {
-      "_id": "64ea96a32998320007252669",
+    "64f3844301d4550007447cf3": {
+      "_id": "64f3844301d4550007447cf3",
       "name": "Template Diagram",
       "type": "TEMPLATE",
       "zoom": 100,
@@ -1872,8 +2146,8 @@
       "modified": 1693004510,
       "variables": [],
       "menuItems": [],
-      "creatorID": 130974,
-      "versionID": "64ea96a32998320007252667",
+      "creatorID": 137831,
+      "versionID": "64f3844301d4550007447cf1",
       "nodes": {
         "6438725334aead00076d562e": {
           "type": "start",

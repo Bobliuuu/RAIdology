@@ -17,7 +17,7 @@ export function Hero() {
       try {
           const result = await signInWithPopup(auth, googleAuth);
           if (result.user) {
-              window.location.href = "https://creator.voiceflow.com/prototype/64ea96a32998320007252667";
+              window.location.href = "https://creator.voiceflow.com/prototype/64f3844301d4550007447cf1";
           }
       } catch (error) {
           console.error("Error logging in", error);

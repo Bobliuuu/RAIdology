@@ -4,13 +4,15 @@
 
 We used the Verbwire API to allow users to mint NFTs on over 13 chains. 
 
-Examples of NFTs minted: 
+Examples of NFTs minted using the Verbwire API: 
 
 https://mumbai.polygonscan.com/tx/0x587dce04fd6f5f928ef9d1d3120da504bff38d67d6c50a985a225d3fc0ebab8c
 
 https://mumbai.polygonscan.com/tx/0x8021e9ebdb5b6abee577d1ac5468ca1e79376f8527278bfb8710d9bb931c2e57
 
 NFTs are minted using the image of the ultrasound, and can be saved/transacted, or sent across chains if required. 
+
+See notebooks for a comprehensive notebook of using Verbwire. 
 
 Also see: 
 
